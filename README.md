@@ -44,6 +44,20 @@ FUTURE_FS_02/
 └── README.md
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 📊 Dashboard Overview
+![Dashboard](./screenshots/dashboard.png)
+
+### 👥 Leads Management
+![Leads](./screenshots/leads.png)
+
+### 📈 Insights & Conversion Ring
+![Insights](./screenshots/insights.png)
+
 
 ## 📌 Description
 
