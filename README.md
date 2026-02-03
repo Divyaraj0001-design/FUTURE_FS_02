@@ -7,13 +7,13 @@ This project focuses on frontend architecture, UI/UX design, and business-orient
 
 ## 🚀 Features
 
-- 🔐 Demo Login & Logout (Frontend authentication using localStorage)
+- 🔐 Demo Login & Logout (Frontend authentication using `localStorage`)
 - 📊 Dashboard analytics (Total Leads, Status-wise counts, Conversion Rate)
 - 🔄 Lead lifecycle management (New → Contacted → Converted)
-- 🟢 Conversion Ring (custom circular progress – no chart library)
-- 💡 Smart Insight Box (business logic-based suggestions)
-- 🕒 Recent Activity panel (real-time activity logs)
-- 🎨 Dark mode UI with sidebar navigation
+- 🟢 Conversion Ring (Custom circular progress – no chart library used)
+- 💡 Smart Insight Box (Business logic-based suggestions)
+- 🕒 Recent Activity Panel (Real-time activity logs)
+- 🎨 Dark Mode UI with Sidebar Navigation
 - ✨ Smooth animations and modern admin dashboard layout
 
 ---
@@ -28,25 +28,33 @@ This project focuses on frontend architecture, UI/UX design, and business-orient
 
 ## 🔑 Demo Login Credentials
 
+Email: admin@crm.com
+
+Password: admin123
+
 ---
 
 ## 📂 Project Structure
 
+FUTURE_FS_02/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 ---
 
 ## 📌 Description
 
-This Mini CRM Dashboard allows users to manage leads efficiently while visualizing conversion performance.  
-Instead of using common chart libraries, the project implements a **custom conversion ring and insight system**, making it unique and non-copy.
+This Mini CRM Dashboard allows users to manage leads efficiently while visualizing conversion performance.
 
-The focus of this project is **product thinking**, UX clarity, and frontend logic rather than backend complexity.
+Instead of using common chart libraries, the project implements a **custom conversion ring and insight system**, making it unique, original, and non-copy.
+
+The primary focus of this project is **product thinking**, **UX clarity**, and **frontend logic**, rather than backend complexity.
 
 ---
 
 ## 👤 Author
 
 **Divya Raj**
-
-
-
