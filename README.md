@@ -72,3 +72,5 @@ The primary focus of this project is **product thinking**, **UX clarity**, and *
 ## 👤 Author
 
 **Divya Raj**
+🌐 **Live Demo:** https://divyaraj0001-design.github.io/FUTURE_FS_02/
+
